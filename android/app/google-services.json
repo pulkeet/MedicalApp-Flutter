@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089874612955",
+    "project_id": "medical-consultation-1f623",
+    "storage_bucket": "medical-consultation-1f623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089874612955:android:dc5b846431076ddf4c72fe",
+        "android_client_info": {
+          "package_name": "com.example.medical_consultation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089874612955-0ssa2m5569de919piek1v6a74538l7kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlbUzUuOaZnc-G-T-y-99YDqA5_4eY1Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089874612955-0ssa2m5569de919piek1v6a74538l7kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
