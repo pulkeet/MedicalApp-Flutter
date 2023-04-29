@@ -1,6 +1,11 @@
 
-
-
+About the application
+1.The prototype medical app has an Introductory Screen , Login Screen , HomePage , DoctorsListPage , ChatPage
+2.Used Bloc for state management in Introductory and login page.
+3.Reused widgets across the application.
+4.Created Utility class for colors , styles.
+5.Getting all the data from util files.
+ 
 
 ![Screenshot_20230429-164637](https://user-images.githubusercontent.com/6251636/235301812-45375729-317e-4b79-a173-bf1125566346.png)
 ![Screenshot_20230429-164630](https://user-images.githubusercontent.com/6251636/235301817-ce3c2140-2420-4c05-b172-3a6dbd891040.png)
