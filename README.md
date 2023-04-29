@@ -6,6 +6,8 @@ About the application
 4.Created Utility class for colors , styles.
 5.Getting all the data from util files.
  
+ https://user-images.githubusercontent.com/6251636/235301827-18eb7d68-602b-4add-8818-e69b4dbbaa46.mp4
+
 
 ![Screenshot_20230429-164637](https://user-images.githubusercontent.com/6251636/235301812-45375729-317e-4b79-a173-bf1125566346.png)
 ![Screenshot_20230429-164630](https://user-images.githubusercontent.com/6251636/235301817-ce3c2140-2420-4c05-b172-3a6dbd891040.png)
@@ -16,5 +18,4 @@ About the application
 ![Screenshot_20230429-164555](https://user-images.githubusercontent.com/6251636/235301826-348271de-95d1-4a03-bc49-8058df426af2.png)
 
 
-https://user-images.githubusercontent.com/6251636/235301827-18eb7d68-602b-4add-8818-e69b4dbbaa46.mp4
 
